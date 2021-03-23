@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5DDB95</color>
+    <color name="colorPrimaryDark">#02DD9A</color>
+    <color name="colorAccent">#EDF5E0</color>
+    <color name="yellowTint">#5DDB95</color>
+    <color name="textColor">#073A6C</color>
+    <color name="Third">#5DDB95</color>
+    <color name="fifth">#EDF5E0</color>
+    <color name="first">#073A6C</color>
+    <color name="fourth">#8EE4B0</color>
+    <color name="second">#399684</color>
+</resources>

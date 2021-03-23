@@ -1,0 +1,428 @@
+[
+	{
+		"name" : "cat" ,
+		"german" : "Katze" ,
+		"meaning" : "the cat"
+	},
+	{
+		"name" : "door" ,
+		"german" : "die Tür" ,
+		"meaning" : "the door"
+	},
+	{
+		"name" : "man" ,
+		"german" : "der Mann" ,
+		"meaning" : "the man"
+	},
+	{
+		"name" : "woman" ,
+		"german" : "die Frau" ,
+		"meaning" : "the woman"
+
+	},
+	{
+		"name" : "kid" ,
+		"german" : "das Kind" ,
+		"meaning" : "the kid"
+	},
+	{
+		"name" : "tree" ,
+		"german" : "der Baum" ,
+		"meaning" : "the tree"
+	},
+	{
+		"name" : "river" ,
+		"german" : "der Fluss" ,
+		"meaning" : "the river"
+	},
+	{
+		"name" : "ball" ,
+		"german" : "der Ball" ,
+		"meaning" : "the ball"
+	},
+	{
+		"name" : "backpack" ,
+		"german" : "der Rucksack" ,
+		"meaning" : "the backpack"
+	},
+	{
+		"name" : "bird" ,
+		"german" : "der Vogel" ,
+		"meaning" : "the bird"
+	},
+	{
+		"name" : "duck" ,
+		"german" : "die Ente" ,
+		"meaning" : "the duck"
+	},
+	{
+		"name" : "cloud" ,
+		"german" : "die Wolke" ,
+		"meaning" : "the cloud"
+	},
+	{
+		"name" : "clock" ,
+		"german" : "die Uhr" ,
+		"meaning" : "the clock"
+	},
+	{
+		"name" : "street" ,
+		"german" : "die Straße" ,
+		"meaning" : "the street"
+	},
+	{
+		"name" : "camera" ,
+		"german" : "die Kamera" ,
+		"meaning" : "the camera"
+	},
+	{
+		"name" : "book" ,
+		"german" : "das Buch" ,
+		"meaning" : "the book"
+	},
+	{
+		"name" : "car" ,
+		"german" : "das Auto" ,
+		"meaning" : "the car"
+	},
+	{
+		"name" : "bike" ,
+		"german" : "das Rad" ,
+		"meaning" : "the bike"
+	},
+	{
+		"name" : "shoes" ,
+		"german" : "die Schuhe" ,
+		"meaning" : "the shoes"
+	},
+	{
+		"name" : "flowers" ,
+		"german" : "die Blumen" ,
+		"meaning" : "the flowers"
+	},
+	{
+		"name" : "dog" ,
+		"german" : "der Hund" ,
+		"meaning" : "the dog"
+	},
+	{
+		"name" : "train" ,
+		"german" : "der Zug" ,
+		"meaning" : "the train"
+	},
+	{
+		"name" : "water" ,
+		"german" : "das Mineralwasser" ,
+		"meaning" : "water"
+	},
+	{
+		"name" : "walk" ,
+		"german" : "Spaziergang" ,
+		"meaning" : "walk"
+	},
+	{
+		"name" : "to_wake_up" ,
+		"german" : "aufwachen" ,
+		"meaning" : "to wake up"
+	},
+	{
+		"name" : "to_wait" ,
+		"german" : "warten" ,
+		"meaning" : "to wait"
+	},
+	{
+		"name" : "to_take" ,
+		"german" : "nehmen" ,
+		"meaning" : "to take"
+	},
+	{
+		"name" : "to_swim" ,
+		"german" : "schwimmen" ,
+		"meaning" : "to swim"
+	},
+	{
+		"name" : "to_smile" ,
+		"german" : "lächeln" ,
+		"meaning" : "to smile"
+	},
+	{
+		"name" : "to_sing" ,
+		"german" : "singen" ,
+		"meaning" : "to sing"
+	},
+	{
+		"name" : "to_say" ,
+		"german" : "sagen" ,
+		"meaning" : "to say"
+	},
+	{
+		"name" : "to_run" ,
+		"german" : "laufen" ,
+		"meaning" : "to run"
+	},
+	{
+		"name" : "to_play" ,
+		"german" : "spielen" ,
+		"meaning" : "to play"
+	},
+	{
+		"name" : "to_open" ,
+		"german" : "öffnen" ,
+		"meaning" : "to open"
+	},
+	{
+		"name" : "to_help" ,
+		"german" : "helfen" ,
+		"meaning" : "to help"
+	},
+	{
+		"name" : "to_go" ,
+		"german" : "gehen" ,
+		"meaning" : "to go"
+	},
+	{
+		"name" : "to_give" ,
+		"german" : "geben" ,
+		"meaning" : "to give"
+	},
+	{
+		"name" : "to_find" ,
+		"german" : "finden" ,
+		"meaning" : "to find"
+	},
+	{
+		"name" : "to_drink" ,
+		"german" : "trinken" ,
+		"meaning" : "to drink"
+	},
+	{
+		"name" : "to_dance" ,
+		"german" : "tanzen" ,
+		"meaning" : "to dance"
+	},
+	{
+		"name" : "to_cook" ,
+		"german" : "kochen" ,
+		"meaning" : "to cook"
+	},
+	{
+		"name" : "to_buy" ,
+		"german" : "kaufen" ,
+		"meaning" : "to buy"
+	},
+	{
+		"name" : "tiger" ,
+		"german" : "Tiger" ,
+		"meaning" : "tiger"
+	},
+	{
+		"name" : "taller" ,
+		"german" : "größer" ,
+		"meaning" : "taller"
+	},
+	{
+		"name" : "talk" ,
+		"german" : "Sprechen" ,
+		"meaning" : "talk"
+	},
+	{
+		"name" : "stronger" ,
+		"german" : "stärker" ,
+		"meaning" : "stronger"
+	},
+	{
+		"name" : "street" ,
+		"german" : "die Straße" ,
+		"meaning" : "street"
+	},
+	{
+		"name" : "soda" ,
+		"german" : "die Cola" ,
+		"meaning" : "soda"
+	},
+	{
+		"name" : "salad" ,
+		"german" : "der Salat" ,
+		"meaning" : "salad"
+	},
+	{
+		"name" : "rich" ,
+		"german" : "reich" ,
+		"meaning" : "rich"
+	},
+	{
+		"name" : "question" ,
+		"german" : "Frage" ,
+		"meaning" : "question"
+	},
+	{
+		"name" : "poor" ,
+		"german" : "arm" ,
+		"meaning" : "poor"
+	},
+	{
+		"name" : "pay" ,
+		"german" : "Zahlen" ,
+		"meaning" : "pay"
+	},
+	{
+		"name" : "night" ,
+		"german" : "Nacht" ,
+		"meaning" : "night"
+	},
+	{
+		"name" : "music" ,
+		"german" : "Musik" ,
+		"meaning" : "music"
+	},
+	{
+		"name" : "mother" ,
+		"german" : "Mutter" ,
+		"meaning" : "mother"
+	},
+	{
+		"name" : "money" ,
+		"german" : "Geld" ,
+		"meaning" : "money"
+	},
+	{
+		"name" : "kind" ,
+		"german" : "Nett" ,
+		"meaning" : "kind"
+	},
+	{
+		"name" : "hurt" ,
+		"german" : "Verletzt" ,
+		"meaning" : "hurt"
+	},
+	{
+		"name" : "hungry" ,
+		"german" : "Hungrig" ,
+		"meaning" : "hungry"
+	},
+	{
+		"name" : "hot" ,
+		"german" : "Heiß" ,
+		"meaning" : "hot"
+	},
+	{
+		"name" : "happiness" ,
+		"german" : "Glück" ,
+		"meaning" : "happiness"
+	},
+	{
+		"name" : "hamburger" ,
+		"german" : "der Hamburger" ,
+		"meaning" : "hamburger"
+	},
+	{
+		"name" : "home" ,
+		"german" : "Zuhause" ,
+		"meaning" : "home"
+	},
+	{
+		"name" : "goodbye" ,
+		"german" : "Auf Wiedersehen!" ,
+		"meaning" : "goodbye"
+	},
+	{
+		"name" : "good_morning" ,
+		"german" : "Guten Morgen!" ,
+		"meaning" : "good morning"
+	},
+	{
+		"name" : "fries" ,
+		"german" : "die Pommes" ,
+		"meaning" : "fries"
+	},
+	{
+		"name" : "food" ,
+		"german" : "das Essen" ,
+		"meaning" : "food"
+	},
+	{
+		"name" : "fight" ,
+		"german" : "Kämpf" ,
+		"meaning" : "fight"
+	},
+	{
+		"name" : "father" ,
+		"german" : "Vater" ,
+		"meaning" : "father"
+	},
+	{
+		"name" : "fat" ,
+		"german" : "Fett" ,
+		"meaning" : "fat"
+	},
+	{
+		"name" : "eye" ,
+		"german" : "Auge" ,
+		"meaning" : "eye"
+	},
+	{
+		"name" : "drive" ,
+		"german" : "Fahren" ,
+		"meaning" : "drive"
+	},
+	{
+		"name" : "doctor" ,
+		"german" : "Arzt" ,
+		"meaning" : "doctor"
+	},
+	{
+		"name" : "cold" ,
+		"german" : "Kalt" ,
+		"meaning" : "cold"
+	},
+	{
+		"name" : "coffee" ,
+		"german" : "der Kaffee" ,
+		"meaning" : "coffee"
+	},
+	{
+		"name" : "clean" ,
+		"german" : "Sauber" ,
+		"meaning" : "clean"
+	},
+	{
+		"name" : "charming" ,
+		"german" : "Charmant" ,
+		"meaning" : "charming"
+	},
+	{
+		"name" : "call" ,
+		"german" : "Anruf" ,
+		"meaning" : "call"
+	},
+	{
+		"name" : "build" ,
+		"german" : "Bauen" ,
+		"meaning" : "build"
+	},
+	{
+		"name" : "bread" ,
+		"german" : "Brot" ,
+		"meaning" : "bread"
+	},
+	{
+		"name" : "apple_pie" ,
+		"german" : "die Apfeltasche" ,
+		"meaning" : "apple pie"
+	},
+	{
+		"name" : "apple" ,
+		"german" : "Apfel" ,
+		"meaning" : "apple"
+	},
+	{
+		"name" : "angry" ,
+		"german" : "Wütend" ,
+		"meaning" : "angry"
+	},
+	{
+		"name" : "airplane" ,
+		"german" : "Flugzeug" ,
+		"meaning" : "airplane,aeroplane"
+	}
+]
